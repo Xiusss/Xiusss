@@ -30,7 +30,6 @@
 [![coherence Card](https://github-readme-stats.vercel.app/api/pin/?username=smilies-polito&repo=Coherence)](https://github.com/smilies-polito/Coherence)
 [![CoSimo Card](https://github-readme-stats.vercel.app/api/pin/?username=lgiannantoni&repo=CoSimo)](https://github.com/lgiannantoni/CoSimo)
 [![Radioverse Card](https://github-readme-stats.vercel.app/api/pin/?username=alessiocarpegna&repo=Radioverse)](https://github.com/alessiocarpegna/Radioverse) -->
-## Hi there 👋
 
 <!--
 **Xiusss/Xiusss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
